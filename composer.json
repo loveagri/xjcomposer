@@ -1,0 +1,13 @@
+{
+    "name": "loveagri/demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fuhong Tang",
+            "email": "282656050@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
