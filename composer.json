@@ -1,0 +1,16 @@
+{
+    "name": "loveagri/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "loveagri",
+            "email": "282656050@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
