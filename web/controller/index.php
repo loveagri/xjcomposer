@@ -16,6 +16,6 @@ class Index
 	}
 
 	public function post(){
-
+echo 'xj';
 	}
 }
